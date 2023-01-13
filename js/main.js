@@ -30,3 +30,4 @@ function logID() {
 }
 
 svgGraphic.addEventListener('click', logID);
+
